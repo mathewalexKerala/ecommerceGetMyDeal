@@ -2,7 +2,7 @@
 node_modules/
 
 # ignore environment variables
-.env
+
 
 # ignore sales report generated
 Sales report.pdf
